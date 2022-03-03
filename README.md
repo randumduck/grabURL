@@ -10,3 +10,6 @@ Requirements:
 
 4) To run\
 "#python3 grabURL.py <domain.tld>"
+
+5) Example\
+  "#python3 grabURL.py example.com
