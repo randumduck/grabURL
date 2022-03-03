@@ -12,4 +12,4 @@ Requirements:
 "#python3 grabURL.py <domain.tld>"
 
 5) Example\
-  "#python3 grabURL.py example.com
+  "#python3 grabURL.py example.com"
